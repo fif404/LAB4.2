@@ -1,4 +1,5 @@
-﻿namespace ConsoleApplication1
+//Скрипников вариант17 ИСП 2.1
+namespace ConsoleApplication1
 {
     class Massiv
     {
